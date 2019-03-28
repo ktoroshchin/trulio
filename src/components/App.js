@@ -38,9 +38,8 @@ class App extends Component {
                             <td>{cell.Column2.S}</td>
                             <td>{cell.Column3.S}</td>
                             <td>{cell.Column4.S}</td>
-                         </tr>
-                
-                      </>
+                        </tr>
+                        </>
                     )    
                      })}
                 </tbody>
